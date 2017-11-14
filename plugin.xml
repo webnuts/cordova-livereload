@@ -5,4 +5,5 @@
     <license>Apache 2.0</license>
     <keywords>cordova,live reload, livereload,browsersync,browser-sync</keywords>
     <repo>git@github.com:webnuts/cordova-livereload.git</repo>
+    <hook type="after_prepare" src="lib/plugin.js" />
 </plugin>
