@@ -1,0 +1,19 @@
+{
+  "name": "cordova-livereload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webnuts/cordova-livereload.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webnuts/cordova-livereload/issues"
+  },
+  "homepage": "https://github.com/webnuts/cordova-livereload#readme"
+}
